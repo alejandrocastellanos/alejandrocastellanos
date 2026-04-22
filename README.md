@@ -19,4 +19,4 @@ Intereses: Arquitectura de software, diseño de herramientas CLI personalizadas 
 Estoy abierto a colaborar en proyectos de Open Source o videojuegos independientes que desafíen la lógica de programación y requieran un diseño técnico sólido.
 
 📫 Contacto
-LinkedIn: linkedin.com/in/alejo-castellanos
+LinkedIn: http://linkedin.com/in/alejo-castellanos
